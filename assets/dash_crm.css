@@ -11,14 +11,8 @@ body{
 }
 
 .success {
-    background-color: white;
-    position: absolute;
-    top: 10px;
-    margin: 5% auto; /* 15% from the top and centered */
-    padding: 20px;
-    width: 900px; /* Could be more or less, depending on screen size */
-    height: 550px;
-    padding-top: 200px;
+    margin: auto;
+    color: #b6aa6a;
 }
 
 .modal {

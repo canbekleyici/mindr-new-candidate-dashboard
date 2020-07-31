@@ -146,12 +146,13 @@ layout = [
                     ),
                     html.Div(
                         [
-                            html.H3(["Successfully Submited"]),
+                            "Success!"
                         ],
                         style={"display": "none"},
                         id="success_div",
                         className="success"
                     ),
+                    html.Br(),
                     modal(),
                 ],
                 id="content",
